@@ -2,6 +2,7 @@
   "description": "React Navigation",
   "version": "4.4.5",
   "private": true,
+  "name": "react-navigation",
   "workspaces": {
     "packages": [
       "example",
